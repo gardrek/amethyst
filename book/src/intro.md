@@ -71,7 +71,7 @@ Those principles are:
 
 2. Parallelism.
 
-   Modern computers, even cheap ones, all have multithread / multicores CPU. With the years, there will be more and more opportunities for parallelism to improve performance.
+   Modern computers, even cheap ones, all have multithreading with multicore CPUs. We expect that over the years, there will be more and more opportunities for parallelism to improve performance.
    With a proper parallel engine, we are convinced that your game will be more and more performant over the years without even needing you to update it.
 
 3. Data-oriented/Data-driven.
