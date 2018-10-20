@@ -25,15 +25,15 @@ and its source code is completely yours to tinker with. The code is available on
 
 ## Getting started
 
-This book is split into four sections (more coming). This page is the first. The others are:
+This book is split into several sections, with this introduction being the first. The others are:
 
 * [Getting Started][gs] – Prepare your computer for Amethyst development.
-* [Concepts][cc] - An overview of the concepts used in Amethyst. Recommended.
+* [Concepts][cc] – An overview of the concepts used in Amethyst. Recommended.
 * [Pong Tutorial][pt] – Build a basic pong game in Rust.
 * [Animation][anim] – Explains the architecture of the `amethyst_animation` crate.
-* [Custom `GameData`][gad] - Shows you how to structure more complex games that need to change the system graph.
-* [Glossary][gl] - Defines special terms used throughout the book.
-* [Appendix A: Config Files][ax_a] - Shows you how to define your data in RON files.
+* [Custom `GameData`][gad] – Shows you how to structure more complex games that need to change the system graph.
+* [Glossary][gl] – Defines special terms used throughout the book.
+* [Appendix A: Config Files][ax_a] – Shows you how to define your data in RON files.
 
 [gs]: ./getting-started.html
 [cc]: ./concepts/intro.html
