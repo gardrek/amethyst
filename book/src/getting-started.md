@@ -18,19 +18,19 @@ See the readme on github for distribution specific details.
 You can either use the [Amethyst CLI][cl] or cargo to set up your project.
 
 ### Amethyst CLI (Easiest)
-If you wish to use the Amethyst cli tool, you can install it like so
+If you wish to use the Amethyst CLI tool, you can install it like so:
 
 ```norun
 cargo install amethyst_tools
 ```
 
-and then run
+And then run:
 
 ```norun
 amethyst new <game-name>
 ```
 
-you should get `Cargo.toml`, `src/main.rs` and `resources/display_config.ron`.
+You should get `Cargo.toml`, `src/main.rs` and `resources/display_config.ron`.
 
 ### Cargo (Manual)
 
@@ -38,7 +38,7 @@ In case you're doing this with `cargo`, here's what you need to do:
 
 * Add `amethyst` as dependency in your `Cargo.toml`.
 * Create a `resources` folder and put a `display_config.ron` in it.
-* (Optional) Copy the code from one of amethyst's examples.
+* Optionally copy the code from one of amethyst's examples.
 
 
 [cl]: https://github.com/amethyst/tools
